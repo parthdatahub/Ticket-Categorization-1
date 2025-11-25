@@ -1,0 +1,40 @@
+[
+    {
+        "Incident_ID": "INC0008111",
+        "Assignment_Group": {
+            "Prediction": "wit-servicedesk-l1",
+            "Confidence": 0.90
+        },
+        "Category": {
+            "Prediction": "accounts & access",
+            "Confidence": 0.33
+        },
+        "Subcategory": {
+            "Prediction": "account access issue",
+            "Confidence": 0.12
+        },
+        "Priority": {
+            "Prediction": "p3 - medium",
+            "Confidence": 1.0
+        }
+    },
+    {
+        "Incident_ID": "INC0010002",
+        "Assignment_Group": {
+            "Prediction": "wit-servicedesk-l1",
+            "Confidence": 0.90
+        },
+        "Category": {
+            "Prediction": "accounts & access",
+            "Confidence": 0.31
+        },
+        "Subcategory": {
+            "Prediction": "functional issue",
+            "Confidence": 0.18
+        },
+        "Priority": {
+            "Prediction": "p3 - medium",
+            "Confidence": 1.0
+        }
+    }
+]
